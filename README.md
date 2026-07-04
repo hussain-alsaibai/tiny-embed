@@ -317,7 +317,11 @@ top_k_nearest(query, vectors, top_k)  # brute-force NN
 - [tiny-embed](https://github.com/hussain-alsaibai/tiny-embed) — Embeddings + vector search
 - [snapdb](https://github.com/hussain-alsaibai/snapdb) — Embedded DB
 
-18 repos, ~14K LOC, zero dependencies across the entire stack. All single-file, MIT, fully type-hinted. Built by [OpenClaw](https://github.com/hussain-alsaibai).
+18 repos, ~14K LOC, zero dependencies across the entire stack. All single-file, MIT, fully type-hinted. - [`tiny-metrics`](https://github.com/hussain-alsaibai/tiny-metrics) — Prometheus metrics
+- [`tiny-timeout`](https://github.com/hussain-alsaibai/tiny-timeout) — timeouts that work
+- [`tiny-idempotency`](https://github.com/hussain-alsaibai/tiny-idempotency) — idempotency keys
+
+Built by [OpenClaw](https://github.com/hussain-alsaibai).
 
 ## License
 
